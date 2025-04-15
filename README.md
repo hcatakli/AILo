@@ -30,16 +30,17 @@ Bu proje, Yazılım Mühendisliği 3. sınıf öğrencileri olarak Pembenaz ÇAV
 
 ## 🚀 Uygulama Görüntüleri
 
-video: https://www.youtube.com/watch?v=-Zi5PKoCt2E&feature=youtu.be
+**Video Tanıtımı:**  
+[YouTube'da İzle](https://www.youtube.com/watch?v=-Zi5PKoCt2E&feature=youtu.be)
 
-![Uygulama İçi Görüntüler] (image\WhatsApp Görsel 2025-04-15 saat 21.07.58_996664d8.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.07.59_4f39e8c0.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.07.59_87f3fb34.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.07.59_ed60cb0f.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.07.59_fd1eb554.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.08.00_4dec4352.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.08.00_706935f8.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.08.00_b5a6e5f4.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.08.01_4efdd981.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.27.56_ac8d8e3e.jpg)
-(image\WhatsApp Görsel 2025-04-15 saat 21.27.57_7df3b010.jpg)
+![Görüntü 1](image/WhatsApp_Görsel_2025-04-15_saat_21.07.58_996664d8.jpg)  
+![Görüntü 2](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_4f39e8c0.jpg)  
+![Görüntü 3](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_87f3fb34.jpg)  
+![Görüntü 4](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_ed60cb0f.jpg)  
+![Görüntü 5](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_fd1eb554.jpg)  
+![Görüntü 6](image/WhatsApp_Görsel_2025-04-15_saat_21.08.00_4dec4352.jpg)  
+![Görüntü 7](image/WhatsApp_Görsel_2025-04-15_saat_21.08.00_706935f8.jpg)  
+![Görüntü 8](image/WhatsApp_Görsel_2025-04-15_saat_21.08.00_b5a6e5f4.jpg)  
+![Görüntü 9](image/WhatsApp_Görsel_2025-04-15_saat_21.08.01_4efdd981.jpg)  
+![Görüntü 10](image/WhatsApp_Görsel_2025-04-15_saat_21.27.56_ac8d8e3e.jpg)  
+![Görüntü 11](image/WhatsApp_Görsel_2025-04-15_saat_21.27.57_7df3b010.jpg)

@@ -18,13 +18,13 @@ Bu proje, kullanıcıların yabancı dil öğrenme sürecini daha verimli, kişi
 
 Bu proje, Yazılım Mühendisliği 3. sınıf öğrencileri olarak Pembenaz ÇAVDAR, Emine TURAN, Nur Sena BAYRAKTAR, Merve TOSUN, Hafsa ÇATAKLI ile birlikte takım çalışmasıyla geliştirilmiştir.
 
-Geliştiricilere ualşmak için;
+## Geliştiricilere Ulaşmak İçin
 
-+Pembenaz ÇAVDAR: https://www.linkedin.com/in/pembenaz-%C3%A7avdar-a9b0a8278/
-+Emine TURAN: http://linkedin.com/in/emineturan-
-+Nur Sena BAYRAKTAR: http://www.linkedin.com/in/nur-sena-bayraktar
-+Merve TOSUN: http://www.linkedin.com/in/merve-tosun-
-+Hafsa ÇATAKLI: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7FLZtxOmSxC3Skg%2FKz0Htg%3D%3D
+- [Pembenaz ÇAVDAR](https://www.linkedin.com/in/pembenaz-%C3%A7avdar-a9b0a8278/)
+- [Emine TURAN](http://linkedin.com/in/emineturan-)
+- [Nur Sena BAYRAKTAR](http://www.linkedin.com/in/nur-sena-bayraktar)
+- [Merve TOSUN](http://www.linkedin.com/in/merve-tosun-)
+- [Hafsa ÇATAKLI](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7FLZtxOmSxC3Skg%2FKz0Htg%3D%3D)
 
 ---
 

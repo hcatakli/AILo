@@ -33,7 +33,7 @@ Bu proje, Yazılım Mühendisliği 3. sınıf öğrencileri olarak Pembenaz ÇAV
 **Video Tanıtımı:**  
 [YouTube'da İzle](https://www.youtube.com/watch?v=-Zi5PKoCt2E&feature=youtu.be)
 
-![Görüntü 1](image\WhatsApp Görsel 2025-04-15 saat 21.07.58_996664d8.jpg)  
+![Görüntü 1](image/WhatsApp Görsel 2025-04-15 saat 21.07.58_996664d8.jpg)  
 ![Görüntü 2](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_4f39e8c0.jpg)  
 ![Görüntü 3](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_87f3fb34.jpg)  
 ![Görüntü 4](image/WhatsApp_Görsel_2025-04-15_saat_21.07.59_ed60cb0f.jpg)  
